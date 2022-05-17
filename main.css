@@ -1,0 +1,39 @@
+.top{
+    display: block;
+    background-color: cadetblue;
+    height: 90px;
+    width: 100%;
+}
+
+
+img.img_logo{
+    height: 80px;
+    float: left;
+
+    display: inline-block;
+}
+#search{
+    margin-top: 30px;
+    margin-right: 5%;
+
+    display: inline-block; float: right;
+}
+ul{
+    display: inline-block;
+    width: 50%;
+    list-style: none;
+    float: left;
+}
+ul li{ margin-top: 30px;
+    
+}
+ul li a{
+    list-style: none;
+    text-decoration: none;
+    
+    width: 150px;
+    height: 80px;
+    float: left;
+    
+    
+}
